@@ -1,0 +1,2 @@
+# DC
+Discord Nitro Generator
